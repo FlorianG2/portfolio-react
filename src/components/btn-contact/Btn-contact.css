@@ -1,0 +1,15 @@
+#btn-contact {
+  display: flex;
+  width: 11vw;
+  color: #EDEDED;
+  z-index: 2;
+  position: relative;
+  top: 60vh;
+  left: 30vw;
+  border-radius: 5px;
+  padding: 1vw;
+}
+
+#btn-contact p {
+  margin: 0 auto;
+}

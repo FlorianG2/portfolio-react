@@ -1,0 +1,10 @@
+#bloc-text {
+  position: absolute;
+  width: 25vw;
+  top: 25vh;
+  left: 15vw;
+}
+
+#bloc-text p {
+  margin: 0;
+}

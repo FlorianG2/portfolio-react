@@ -1,0 +1,64 @@
+.bg-light {
+  background-color: #938E8E;
+}
+
+.left-part{
+  height: 100%;
+  width: 40%;
+}
+
+.bg-dark {
+  background-color: #423F3F;
+}
+
+.right-part {
+  height: 100%;
+  width: 60%;
+}
+
+.bg-white {
+  background-color: #EDEDED;
+}
+
+.btm-part {
+  width: 84%;
+  height: 88%;
+  position: absolute;
+  top: 12vh;
+  right: 8vw;
+  border-radius: 5px 5px 0 0;
+}
+
+.portfolio {
+  font-size: 5vh;
+  position: relative;
+  top: 3vh;
+  left: 33vw;
+  color: #938E8E;
+}
+
+
+.circle {
+  display: flex;
+  height: 3vw;
+  width: 3vw;
+  border-radius: 50%;
+}
+
+#circle-white {
+  position: relative;
+  top: 80vh;
+  left: 54.5vw;
+}
+
+#circle-dark {
+  position: relative;
+  top: 3.5vh;
+  left: 28vw;
+}
+
+#circle-light {
+  position: relative;
+  top: 3vh;
+  left: 79vw;
+}

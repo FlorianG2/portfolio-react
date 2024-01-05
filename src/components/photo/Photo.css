@@ -1,0 +1,11 @@
+#photo-me {
+  display: flex;
+  position: absolute;
+  width: 25vw;
+  top: 15vh;
+  left: 66.5vw;
+}
+
+.photo-size {
+  width: 100%;
+}
