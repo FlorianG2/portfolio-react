@@ -1,0 +1,34 @@
+.title-project {
+  position: relative;
+  top: 12vh;
+  left: 6vw;
+  width: 20vw;
+  display: flex;
+  text-align: center;
+  white-space: normal;
+}
+
+.text-project {
+  position: relative;
+  top: 20vh;
+  left: 6vw;
+  width: 20vw;
+  display: flex;
+  text-align: center;
+  white-space: normal;
+}
+
+.screen-project {
+  position: relative;
+  top: -30vh;
+  left: 30vw;
+  width: 50vw;
+  height: 50vh;
+}
+
+.screen-project p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}

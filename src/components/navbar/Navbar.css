@@ -1,6 +1,7 @@
 .banner {
   width: 40%;
-  display: flex;
+  position: relative;
+  z-index: 2;
   justify-content: space-around;
   margin: 0 auto;
   padding: 3vh;
