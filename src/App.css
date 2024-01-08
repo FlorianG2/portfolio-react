@@ -36,6 +36,10 @@
   font-size: 3vw;
 }
 
+.width-15vw {
+  width: 15vw;
+}
+
 /* ----------------------------*/
 /* ----------------------------*/
 
@@ -43,6 +47,10 @@
 
 .flex {
   display: flex;
+}
+
+.block {
+  display: block;
 }
 
 /* ----------------------------*/
@@ -58,6 +66,16 @@
 .link:hover {
   color: #938E8E;
   transition: ease 200ms;
+}
+
+/* ----------------------------*/
+/* ----------------------------*/
+
+/* -- Position -- */
+
+.center {
+  justify-content: center;
+  align-items: center;
 }
 
 /* ----------------------------*/

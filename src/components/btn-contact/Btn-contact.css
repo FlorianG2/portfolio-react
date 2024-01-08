@@ -8,8 +8,13 @@
   left: 30vw;
   border-radius: 5px;
   padding: 0.5vw;
+  cursor: pointer;
 }
 
 #btn-contact p {
   margin: 0 auto;
+}
+
+#btn-contact:hover {
+  color: #938E8E;
 }
