@@ -12,7 +12,11 @@
 #bloc-text-mobile {
   position: relative;
   width: 100%;
-  top: 2vh;
+  top: 5vh;
   margin: 0 auto;
   text-align: center;
+}
+
+#bloc-text-mobile p {
+  margin: 0.3em;
 }
