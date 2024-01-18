@@ -8,6 +8,7 @@ import PhotoMobile from '../components/photo/Photo-mobile';
 import Text from '../components/text/Text';
 import TextMobile from '../components/text/Text-mobile';
 import Boxes from '../components/boxes/Boxes';
+import BoxesMobile from '../components/boxes/Boxes-mobile';
 import Links from '../components/links/Links';
 import { useMediaQuery } from "react-responsive";
 
@@ -44,6 +45,7 @@ function AboutMobile() {
       <TextMobile />
       <PhotoMobile />
       <BtnContactMobile />
+      <BoxesMobile />
     </div>
   );
 }
