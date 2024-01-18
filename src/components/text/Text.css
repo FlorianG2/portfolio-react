@@ -1,10 +1,18 @@
 #bloc-text {
   position: absolute;
-  width: 25vw;
-  top: 25vh;
-  left: 15vw;
+  width: 27vw;
+  top: 10vh;
+  left: 5vw;
 }
 
 #bloc-text p {
   margin: 0;
+}
+
+#bloc-text-mobile {
+  position: relative;
+  width: 100%;
+  top: 2vh;
+  margin: 0 auto;
+  text-align: center;
 }

@@ -1,6 +1,6 @@
 #btn-contact {
   display: flex;
-  width: 11vw;
+  width: 13vw;
   color: #EDEDED;
   z-index: 2;
   position: relative;
@@ -11,10 +11,28 @@
   cursor: pointer;
 }
 
+#btn-contact-mobile {
+  display: flex;
+  justify-content: center;
+  width: 45%;
+  color: #EDEDED;
+  z-index: 2;
+  position: absolute;
+  bottom: 1%;
+  left: 1%;
+  border-radius: 5px;
+  padding: 0.2em;
+  cursor: pointer;
+}
+
 #btn-contact p {
   margin: 0 auto;
 }
 
 #btn-contact:hover {
+  color: #938E8E;
+}
+
+#btn-contact-mobile:hover {
   color: #938E8E;
 }

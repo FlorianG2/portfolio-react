@@ -2,7 +2,7 @@ import './Text.css'
 
 function Text() {
   return(
-    <div>
+    <div className='btm-part'>
       <div id='bloc-text'>
         <p className='caveat large-txt'>Florian Guerin</p>
         <br />

@@ -1,8 +1,8 @@
 .banner {
-  width: 40%;
+  width: 80%;
   position: relative;
   z-index: 2;
   justify-content: space-around;
-  margin: 0 auto;
-  padding: 3vh;
+  margin: auto;
+  padding: 3vh 0 3vh 0;
 }

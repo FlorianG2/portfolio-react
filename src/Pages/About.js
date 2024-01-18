@@ -1,8 +1,12 @@
 import Background from '../components/background/Background';
+import BackgroundMobile from '../components/background/Background-mobile';
 import Navbar from '../components/navbar/Navbar';
 import BtnContact from '../components/btn-contact/Btn-contact';
+import BtnContactMobile from '../components/btn-contact/Btn-contact-mobile';
 import Photo from '../components/photo/Photo';
+import PhotoMobile from '../components/photo/Photo-mobile';
 import Text from '../components/text/Text';
+import TextMobile from '../components/text/Text-mobile';
 import Boxes from '../components/boxes/Boxes';
 import Links from '../components/links/Links';
 import { useMediaQuery } from "react-responsive";
@@ -34,8 +38,12 @@ function AboutDesktop() {
 
 function AboutMobile() {
   return (
-    <div className='bg-dark screen flex center'>
-      <p className='anonymous-pro-bold xlarge-txt'>Mobile version in progress</p>
+    <div>
+      <BackgroundMobile />
+      <Navbar />
+      <TextMobile />
+      <PhotoMobile />
+      <BtnContactMobile />
     </div>
   );
 }
