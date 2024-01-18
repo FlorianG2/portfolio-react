@@ -6,7 +6,7 @@ function Navbar() {
     <div>
       <div className='screen'>
         <div className='btm-part'>
-          <div className='flex banner'>
+          <div className='flex banner bg-white'>
           <Link to="/" className='link'>
             <span className='anonymous-pro-bold mid-txt'>About me</span>
           </Link>
