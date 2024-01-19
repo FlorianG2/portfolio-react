@@ -1,6 +1,8 @@
 import Background from '../components/background/Background';
+import BackgroundMobile from '../components/background/Background-mobile';
 import Navbar from '../components/navbar/Navbar';
 import Slideshow from '../components/slide/Slideshow';
+import SlideshowMobile from '../components/slide/Slideshow-mobile'
 import { useMediaQuery } from "react-responsive";
 
 
@@ -27,8 +29,10 @@ function ProjectsDesktop() {
 
 function ProjectsMobile() {
   return (
-    <div className='bg-dark screen flex center'>
-      <p className='anonymous-pro-bold xlarge-txt'>Mobile version in progress</p>
+    <div>
+      <BackgroundMobile />
+      <Navbar />
+      <SlideshowMobile />
     </div>
   );
 }

@@ -8,6 +8,15 @@
   white-space: normal;
 }
 
+.title-project-mobile {
+  position: relative;
+  /* bottom: 70vh; */
+  width: 100%;
+  display: flex;
+  text-align: center;
+  white-space: normal;
+}
+
 .text-project {
   position: relative;
   top: 20vh;
@@ -18,9 +27,19 @@
   white-space: normal;
 }
 
+.text-project-mobile {
+  position: relative;
+  /* bottom: 70vh; */
+  left: 10%;
+  width: 80%;
+  display: flex;
+  text-align: center;
+  white-space: normal;
+}
+
 .screen-project {
   position: relative;
-  top: -30vh;
+  top: -40vh;
   left: 30vw;
   width: 50vw;
   height: 50vh;
