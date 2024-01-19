@@ -1,5 +1,5 @@
 import Background from '../components/background/Background';
-import BackgroundMobile from '../components/background/Background-mobile';
+import BackgroundMobileProject from '../components/background/Background-mobile-project';
 import Navbar from '../components/navbar/Navbar';
 import Slideshow from '../components/slide/Slideshow';
 import SlideshowMobile from '../components/slide/Slideshow-mobile'
@@ -30,7 +30,7 @@ function ProjectsDesktop() {
 function ProjectsMobile() {
   return (
     <div>
-      <BackgroundMobile />
+      <BackgroundMobileProject />
       <Navbar />
       <SlideshowMobile />
     </div>

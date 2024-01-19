@@ -26,6 +26,7 @@
   width: 60%;
 }
 
+
 .bg-white {
   background-color: #EDEDED;
 }
@@ -43,6 +44,15 @@
 .btm-part-mobile {
   width: 84%;
   height: 176%;
+  position: absolute;
+  top: 12vh;
+  right: 8vw;
+  border-radius: 5px 5px 0 0;
+}
+
+.btm-part-mobile-project {
+  width: 84%;
+  height: 88%;
   position: absolute;
   top: 12vh;
   right: 8vw;

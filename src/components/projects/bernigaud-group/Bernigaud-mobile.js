@@ -1,5 +1,6 @@
 import TitleBgMobile from "./Title-bg-mobile"
 import TextBgMobile from "./Text-bg-mobile"
+import BtnBGMobile from "./Btn-project-mobile"
 import '../../projects/projects.css'
 
 function BernigaudMobile() {
@@ -7,6 +8,7 @@ function BernigaudMobile() {
     <div>
       <TitleBgMobile />
       <TextBgMobile />
+      <BtnBGMobile />
     </div>
   )
 }
