@@ -1,5 +1,4 @@
 import React from 'react';
-
 import BernigaudMobile from '../projects/bernigaud-group/Bernigaud-mobile';
 import AlmaVivaLabMobile from '../projects/almavivalab/Almavivalab-mobile';
 import './Slideshow.css'

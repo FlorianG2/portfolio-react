@@ -1,3 +1,4 @@
+import React from 'react';
 import './Boxes.css'
 
 function BoxCustomer() {

@@ -1,3 +1,4 @@
+import React from 'react';
 import './Boxes.css'
 import UiUx from './UI_UX.png';
 import CustomerPng from './customer.png'

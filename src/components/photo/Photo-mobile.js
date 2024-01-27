@@ -1,3 +1,4 @@
+import React from 'react';
 import './Photo.css'
 import PhotoMe from './Photo.png';
 

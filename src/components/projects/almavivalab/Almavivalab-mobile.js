@@ -1,3 +1,4 @@
+import React from 'react';
 import TitleAvlMobile from "./Title-avl-mobile"
 import TextAvlMobile from "./Text-avl-mobile"
 import BtnAVLMobile from "./Btn-avl-mobile"

@@ -1,3 +1,4 @@
+import React from 'react';
 import Background from '../components/background/Background';
 import BackgroundMobileProject from '../components/background/Background-mobile-project';
 import Navbar from '../components/navbar/Navbar';

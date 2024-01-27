@@ -1,3 +1,4 @@
+import React from 'react';
 import TitleBg from "./Title-bg"
 import TextBg from "./Text-bg"
 import ScreenBg from "./Screen-bg"

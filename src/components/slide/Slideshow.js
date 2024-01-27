@@ -1,5 +1,4 @@
 import React from 'react';
-
 import Bernigaud from '../projects/bernigaud-group/Bernigaud';
 import AlmaVivaLab from '../projects/almavivalab/Almavivalab';
 import './Slideshow.css'

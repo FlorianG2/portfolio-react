@@ -1,3 +1,4 @@
+import React from 'react';
 import './Links.css'
 import { Link } from 'react-router-dom';
 import PDF from '../../Florian_Guerin_Resume.pdf';
